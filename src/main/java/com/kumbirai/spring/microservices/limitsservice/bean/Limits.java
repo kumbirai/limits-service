@@ -17,18 +17,17 @@ import lombok.NoArgsConstructor;
  * <br>
  *
  * @author Kumbirai 'Coach' Mundangepfupfu<br>
- * @date 26 May 2021<br>
  * @version 1.0<br>
  *
  * <b>Revision:</b>
  * <br>
- *					
+ * @date 26 May 2021<br>
  */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Limits
 {
-	private int minimum;
-	private int maximum;
+    private int minimum;
+    private int maximum;
 }
