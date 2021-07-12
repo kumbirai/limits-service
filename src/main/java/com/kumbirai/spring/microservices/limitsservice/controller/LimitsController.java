@@ -25,7 +25,6 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * <b>Revision:</b>
  * <br>
- * @date 26 May 2021<br>
  */
 @RestController
 public class LimitsController
@@ -50,7 +49,7 @@ public class LimitsController
      * retrieveLimits<br>
      * <br>
      *
-     * @return<br> <br>
+     * @return <br> <br>
      */
     @GetMapping("/limits")
     public Limits retrieveLimits()

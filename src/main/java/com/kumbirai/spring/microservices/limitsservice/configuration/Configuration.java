@@ -21,7 +21,6 @@ import org.springframework.stereotype.Component;
  *
  * <b>Revision:</b>
  * <br>
- * @date 26 May 2021<br>
  */
 @Component
 @ConfigurationProperties("limits-service")
